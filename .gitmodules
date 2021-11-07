@@ -2,3 +2,8 @@
 	path = tcsgsy/operating-unit
 	url = git@github.com:tcsgsy/operating-unit.git
 	branch = 14.0
+
+[submodule "tcsgsy/account-financial-tools"]
+	path = tcsgsy/account-financial-tools
+	url = git@github.com:tcsgsy/account-financial-tools.git
+	branch = 14.0
